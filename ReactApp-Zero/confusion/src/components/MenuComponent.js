@@ -12,6 +12,8 @@ class Menu extends Component {
     };
   }
 
+  // A very useful comment
+
   onDishSelect(dish) {
     this.setState({ selectedDish: dish })
   }
