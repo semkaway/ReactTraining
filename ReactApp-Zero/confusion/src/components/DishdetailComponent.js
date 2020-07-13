@@ -53,6 +53,8 @@ class DishDetail extends Component {
     }
   }
 
+  // Another useful comment
+
   render(){
     let comments = null
 
